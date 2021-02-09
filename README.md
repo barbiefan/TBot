@@ -7,7 +7,7 @@ python googletrans lib
 python beautifulsoup lib  
 python pillow lib  
 ## Features:
-inline translator (@your_bot_name in any chat to use)
+inline translator (@your_bot_name in any chat to use)  
 10 random words with translation (for studying)  
 support for different dictionaries  
   
