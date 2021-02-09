@@ -1,7 +1,7 @@
 Telegram bot
 =
 
-##Requirements:
+## Requirements:
 python telegram lib
 python googletrans lib
 python beautifulsoup lib
@@ -20,7 +20,7 @@ customizable captions (position, font, color, font size, stroke size, alignment,
 
 
 
-##Current state:
+## Current state:
 needs refactoring
 WIP on more image processing features
 
